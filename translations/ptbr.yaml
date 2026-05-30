@@ -5,8 +5,8 @@ home:
   manual: Abrir manual
   about: Sobre
   tip.title: Dica
-  tip.text: Você pode abrir qualquer projeto arrastanto e soltando um arquivo '.pilas' aqui.
-  explore: Explorar cominidade
+  tip.text: Você pode abrir qualquer projeto arrastando e soltando um arquivo '.pilas' aqui.
+  explore: Explorar comunidade
 
 return: Voltar
 edit: Editar
@@ -23,7 +23,7 @@ create.actor: Criar ator
 run: Executar
 stop: Parar
 pause: Pausar
-save.and.run: Salvar e execurtar
+save.and.run: Salvar e executar
 code: Código
 code.blocks: Código e blocos
 warning.code.errors: Códigos com erros.
@@ -36,15 +36,15 @@ frame: Quadro
 quit: Você quer mesmo sair?
 interpreter:
   label: Intérprete
-  help: Pressionne executar para começar a escrever o código
+  help: Pressione executar para começar a escrever o código
   entering.run: Entrando no modo de execução
   entering.pause: Entrando no modo de pausa
-  entering.edit: Entrando no mode de edição
+  entering.edit: Entrando no modo de edição
   scope: Você pode usar as variáveis do pilas ou dos atores.
 
 tooltip:
   show.shapes: Mostra as formas físicas
-  show.fps: Mostra a performace em FPS
+  show.fps: Mostra a performance em FPS
   show.minimap: Mostra o minimapa
   show.positions: Mostra os pontos de controle de cada ator
 change.image: Trocar imagem
@@ -58,10 +58,10 @@ name: Nome
 stage:
   stage: Cenário
   width: Largura
-  height: ALtura
-  camera: Camera
-  camera.x: Camera X
-  camera.y: Camera Y
+  height: Altura
+  camera: Câmera
+  camera.x: Câmera X
+  camera.y: Câmera Y
   appearance: Aparência
   background: Fundo
   physical.simulation: Simulação física
@@ -80,11 +80,11 @@ actor:
   y: Y
   z: Z
   behaviors: Comportamentos
-  ablities: Abilidades
+  ablities: Habilidades
   transformations: Transformações
   scale:
-    x: Scale X
-    y: Scale Y
+    x: Escala X
+    y: Escala Y
   rotation: Rotação
   transparency: Transparência
   center:
@@ -112,20 +112,20 @@ actor:
 project:
   video.mode: Modo de vídeo
   main.scene: Cena principal
-  performance: Performace
+  performance: Performance
   size: Tamanho
   title: Título do jogo
-  tags: Etoquetas
+  tags: Etiquetas
   maketag: Criar etiqueta
 
 about:
-  title: ¿What is Pilas Engine?
+  title: O que é Pilas Engine?
   text: |-
     Pilas é uma ferramentas para fazer jogos de uma maneira simples e divertida.
 
     Nós fizemos essa ferramenta para que jovens possam descobrir e aprender a programar
-    computadores. Nós acreditamos que aprender a programar video-games é algo tão
-    espectacular que todas as pessoas deveriam ter a habilidade de fazê-lo. Aprender a programar te permite
+    computadores. Nós acreditamos que aprender a programar videogames é algo tão
+    espetacular que todas as pessoas deveriam ter a habilidade de fazê-lo. Aprender a programar te permite
     tomar o controle de computadores para inventar, compartilhar e desenvolver qualquer tipo de programa.
 
     Os ícones da interface foram criados por Icons8, enquanto os gráficos de jogo
@@ -206,9 +206,9 @@ audio:
   load.sound: Fazer o upload de um arquivo mp3
   help: Ajuda
   use.sound: digite esse código para usar esse som em um jogo
-  play.music: digite esse código se você quizer que esse som se repita em ciclo, como uma música
+  play.music: digite esse código se você quiser que esse som se repita em ciclo, como uma música
   stop.music: e digite esse código para para o som
-  format: Lembre-se de que o arquivo de audio deve ser menor que 5MB e deve ser somente no formato MP3.
+  format: Lembre-se de que o arquivo de áudio deve ser menor que 5MB e deve ser somente no formato MP3.
 
 menu:
   duplicate.actor: Duplicar este ator
@@ -224,7 +224,7 @@ exit:
   title: Você está saindo sem salvar
   question: É o que você quer fazer?
   confirm: Sair sem salvar
-  cancel: Cancelar e rotornar ao editor
+  cancel: Cancelar e retornar ao editor
 
 cancel: Cancelar
 ok: OK
@@ -249,7 +249,7 @@ server:
   start: Iniciar servidor web
 
 undo: Desfazer
-only.pilas.files: Você sopode abrir arquivos .pilas
+only.pilas.files: Você só pode abrir arquivos .pilas
 
 iniciar.proyecto:
   recommended: Recomendado
